@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdullah Amjad
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and volunteering for National Science Bowl of Pakistan
+- 🌱 I’m currently learning Python and volunteering for [National Science Bowl of Pakistan](https://sciencebowl.pk)
 - 💞️ I’m looking to collaborate on student empowerment programs
 - 📫 How to reach me abdullamjadk@gmail.com
 - ⚡ Fun fact: I wrote my first code line in 2024
